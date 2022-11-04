@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Nice to meet you! My name is Xiaoxing Li, a PhD candidate @tue. My research interest concentrates on numerical simulation of evaporation and absorption of droplets with surfactants into thin porous media. When droplets are added particles, "coffee stain" phenomena could be found. Let us explore the mechanism behind this! 
+Hi! Nice to meet you! My name is Xiaoxing Li, a PhD candidate @tue. My research interest concentrates on numerical simulation of evaporation and absorption of droplets with surfactants into thin porous media. When droplets with particles evaporate, "coffee stain" phenomena could be found. Let us explore the mechanism behind this! 
 
 A data-driven personal website
 ======

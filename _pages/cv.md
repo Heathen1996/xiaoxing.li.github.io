@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, Eindhoven University of Technology
-* M.S. in Power Engineering and Engineering Thermophysics, Shanghai Jiao Tong University, 2018
-* B.S. in Energy and Power Engineering, Central South University, 2014
+* Ph.D in Mechanical Engineering, Eindhoven University of Technology, present
+* M.S. in Power Engineering and Engineering Thermophysics, Shanghai Jiao Tong University, 2022
+* B.S. in Energy and Power Engineering, Central South University, 2018
   
 Skills
 ======
